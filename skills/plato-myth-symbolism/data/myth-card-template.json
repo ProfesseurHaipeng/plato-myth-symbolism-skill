@@ -1,0 +1,14 @@
+{
+  "id": "stable-card-slug",
+  "title": "",
+  "dialogue": "",
+  "book": "",
+  "stephanus": {"start": "", "end": ""},
+  "speaker": "",
+  "audience": "",
+  "narrative_status": "image|traditional-story|reported-teaching|cosmological-account|contested-political-narrative",
+  "argument_context": "State the local philosophical problem before interpreting the story.",
+  "primary_source_id": "source-id",
+  "analysis_prompts": ["Question grounded in the passage", "A second question that tests an alternative reading"],
+  "non_claims": ["A specific modern claim that this card cannot establish"]
+}

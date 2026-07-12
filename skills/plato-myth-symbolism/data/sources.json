@@ -1,0 +1,82 @@
+[
+  {
+    "id": "perseus-plato-collection",
+    "title": "Plato collection",
+    "work": "Plato corpus",
+    "kind": "primary-text-index",
+    "uri": "https://www.perseus.tufts.edu/hopper/collection?collection=Perseus%3Acorpus%3Aperseus%2Cauthor%2CPlato",
+    "license_notice": "Inspect the exact text and translation page for its displayed license before reuse.",
+    "reuse_policy": "link-and-verify-license",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "perseus-republic-cave",
+    "title": "Republic VII, 514a",
+    "work": "Plato, Republic",
+    "kind": "primary-text",
+    "uri": "https://www.perseus.tufts.edu/hopper/text?doc=plat.+rep.+7.514a",
+    "license_notice": "Use the license displayed on the selected Perseus edition; attribute any quoted translation.",
+    "reuse_policy": "link-and-short-attributed-quote",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "perseus-symposium-189",
+    "title": "Symposium, 189",
+    "work": "Plato, Symposium",
+    "kind": "primary-text",
+    "uri": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DSym.%3Apage%3D189",
+    "license_notice": "Use the license displayed on the selected Perseus edition; attribute any quoted translation.",
+    "reuse_policy": "link-and-short-attributed-quote",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "perseus-phaedrus-246",
+    "title": "Phaedrus, 246",
+    "work": "Plato, Phaedrus",
+    "kind": "primary-text",
+    "uri": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Apage%3D246",
+    "license_notice": "Use the license displayed on the selected Perseus edition; attribute any quoted translation.",
+    "reuse_policy": "link-and-short-attributed-quote",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "scaife-timaeus-21",
+    "title": "Timaeus, 21",
+    "work": "Plato, Timaeus",
+    "kind": "primary-text",
+    "uri": "https://scaife.perseus.org/reader/urn%3Acts%3AgreekLit%3Atlg0059.tlg031.perseus-eng2%3A21/",
+    "license_notice": "Inspect the exact Scaife edition and translation rights before reuse.",
+    "reuse_policy": "link-only-until-license-is-checked",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "gutenberg-republic-jowett",
+    "title": "The Republic of Plato, Jowett translation",
+    "work": "Plato, Republic",
+    "kind": "public-domain-translation-reference",
+    "uri": "https://www.gutenberg.org/ebooks/55201",
+    "license_notice": "Project Gutenberg states US public-domain status; check global reuse requirements before bundling text.",
+    "reuse_policy": "link-only",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "gutenberg-symposium-jowett",
+    "title": "Symposium, Jowett translation",
+    "work": "Plato, Symposium",
+    "kind": "public-domain-translation-reference",
+    "uri": "https://www.gutenberg.org/ebooks/1600",
+    "license_notice": "Project Gutenberg states US public-domain status; check global reuse requirements before bundling text.",
+    "reuse_policy": "link-only",
+    "accessed": "2026-07-12"
+  },
+  {
+    "id": "sep-plato-myths",
+    "title": "Plato's Myths",
+    "work": "Stanford Encyclopedia of Philosophy",
+    "kind": "secondary-scholarship",
+    "uri": "https://plato.stanford.edu/archives/spr2025/entries/plato-myths/",
+    "license_notice": "Use as cited secondary scholarship; do not substitute it for a primary locator.",
+    "reuse_policy": "link-and-paraphrase-with-attribution",
+    "accessed": "2026-07-12"
+  }
+]
