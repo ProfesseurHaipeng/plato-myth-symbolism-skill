@@ -1,0 +1,37 @@
+[
+  {
+    "id": "claim-cave-location",
+    "statement": "The Cave card is anchored to Republic VII, 514a–521b, with Socrates speaking to Glaucon.",
+    "claim_layer": "textual-observation",
+    "supporting_card_ids": ["republic-cave"],
+    "limit_note": "The card supplies a locator and dramatic frame, not a final interpretation of every detail."
+  },
+  {
+    "id": "claim-er-boundary",
+    "statement": "The Myth of Er is handled as a philosophical narrative in the Republic, not as empirical afterlife evidence.",
+    "claim_layer": "interpretive-boundary",
+    "supporting_card_ids": ["republic-er"],
+    "limit_note": "The boundary does not remove philosophical interest; it prevents an unsupported empirical conclusion."
+  },
+  {
+    "id": "claim-aristophanes-speaker",
+    "statement": "The divided-humans account is recorded as Aristophanes' speech in the Symposium.",
+    "claim_layer": "textual-observation",
+    "supporting_card_ids": ["symposium-aristophanes"],
+    "limit_note": "It must remain distinct from Socrates' report of Diotima."
+  },
+  {
+    "id": "claim-theuth-boundary",
+    "statement": "Theuth and writing belong to the Phaedrus discussion of writing, memory, speech, and dialectic; they do not authorize a simple ban on writing.",
+    "claim_layer": "interpretive-boundary",
+    "supporting_card_ids": ["phaedrus-theuth"],
+    "limit_note": "Read the story with its surrounding argument."
+  },
+  {
+    "id": "claim-atlantis-boundary",
+    "statement": "Atlantis is recorded through the Timaeus political narrative frame and must not be presented as archaeological proof.",
+    "claim_layer": "interpretive-boundary",
+    "supporting_card_ids": ["timaeus-atlantis"],
+    "limit_note": "Reception history can be studied separately from archaeological claims."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "muthos",
+    "greek": "μῦθος",
+    "transliteration": "muthos",
+    "translation_options": ["myth", "story", "account"],
+    "use_note": "Treat the term in its local dialogue context; do not assume one modern definition fits every occurrence.",
+    "card_ids": ["republic-er", "timaeus-atlantis"]
+  },
+  {
+    "id": "logos",
+    "greek": "λόγος",
+    "transliteration": "logos",
+    "translation_options": ["account", "argument", "reasoned discourse"],
+    "use_note": "Explain the translation choice and immediate context before treating it as a technical slogan.",
+    "card_ids": ["timaeus-cosmology", "phaedrus-theuth"]
+  },
+  {
+    "id": "paideia",
+    "greek": "παιδεία",
+    "transliteration": "paideia",
+    "translation_options": ["education", "formation", "cultivation"],
+    "use_note": "Use the Cave card's context before importing a modern school-policy meaning.",
+    "card_ids": ["republic-cave"]
+  },
+  {
+    "id": "psyche",
+    "greek": "ψυχή",
+    "transliteration": "psyche",
+    "translation_options": ["soul", "psyche"],
+    "use_note": "Do not translate it directly into a modern neurological object without argument.",
+    "card_ids": ["phaedrus-chariot", "phaedo-afterlife"]
+  },
+  {
+    "id": "eros",
+    "greek": "ἔρως",
+    "transliteration": "eros",
+    "translation_options": ["love", "desire", "eros"],
+    "use_note": "Keep Aristophanes' and Diotima's different dramatic contexts visible.",
+    "card_ids": ["symposium-aristophanes", "symposium-diotima"]
+  }
+]

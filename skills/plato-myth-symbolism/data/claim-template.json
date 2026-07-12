@@ -1,0 +1,7 @@
+{
+  "id": "stable-claim-slug",
+  "statement": "A concise claim limited by the selected card(s).",
+  "claim_layer": "textual-observation|contextual-inference|interpretive-boundary|reception",
+  "supporting_card_ids": ["myth-card-id"],
+  "limit_note": "State what the claim does not establish."
+}

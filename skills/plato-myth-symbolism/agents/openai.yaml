@@ -1,4 +1,4 @@
 interface:
   display_name: "Plato Myth and Symbolism"
-  short_description: "Interpret Platonic myths through primary texts"
-  default_prompt: "Use $plato-myth-symbolism to interpret a Platonic myth through primary-text context, philosophical function, and competing scholarly readings."
+  short_description: "Learn Platonic myths through source, dialogue, argument, and reception"
+  default_prompt: "Use $plato-myth-symbolism to teach me one Platonic myth or image through its dialogue, Stephanus range, speaker, argument context, competing readings, limits, and next research step."

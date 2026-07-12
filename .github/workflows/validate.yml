@@ -1,0 +1,26 @@
+name: Validate Plato myth skill
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6.0.0
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: "3.12"
+      - name: Validate curated corpus
+        run: python3 skills/plato-myth-symbolism/scripts/validate_corpus.py
+      - name: Run boundary tests
+        run: python3 -m unittest discover -s skills/plato-myth-symbolism/tests -v

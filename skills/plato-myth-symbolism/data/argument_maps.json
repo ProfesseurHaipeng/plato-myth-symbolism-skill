@@ -1,0 +1,42 @@
+[
+  {
+    "id": "map-republic-cave",
+    "card_id": "republic-cave",
+    "problem": "How education changes orientation toward what is taken as real, and why the educated person returns to the city.",
+    "image_or_narrative": "cave, shadows, ascent, return",
+    "analytic_function": "makes stages of learning and political responsibility discussable through an image",
+    "unresolved_point": "The image does not by itself settle every metaphysical or political interpretation."
+  },
+  {
+    "id": "map-republic-er",
+    "card_id": "republic-er",
+    "problem": "How justice, choice, and responsibility can be held together at the close of the dialogue.",
+    "image_or_narrative": "judgment, choice of lives, return",
+    "analytic_function": "stages choice and responsibility in an eschatological narrative",
+    "unresolved_point": "The narrative is not empirical proof of a post-mortem world."
+  },
+  {
+    "id": "map-symposium-aristophanes",
+    "card_id": "symposium-aristophanes",
+    "problem": "How longing and wholeness can be imagined in a comic speech about eros.",
+    "image_or_narrative": "round human beings divided by Zeus",
+    "analytic_function": "offers a comic etiological story of desire and reunion",
+    "unresolved_point": "The speech must not be merged with Diotima's account or treated as biological science."
+  },
+  {
+    "id": "map-phaedrus-theuth",
+    "card_id": "phaedrus-theuth",
+    "problem": "What writing can and cannot do for memory and understanding.",
+    "image_or_narrative": "Theuth presents writing to Thamus",
+    "analytic_function": "tests claims about a medium through an embedded story",
+    "unresolved_point": "It does not yield a universal rejection of all writing."
+  },
+  {
+    "id": "map-timaeus-atlantis",
+    "card_id": "timaeus-atlantis",
+    "problem": "How a political narrative of ancient conflict frames discussion of the ideal city.",
+    "image_or_narrative": "ancient Athens and Atlantis",
+    "analytic_function": "connects memory, civic order, and narrative exemplification",
+    "unresolved_point": "The frame does not establish a historical location for Atlantis."
+  }
+]
